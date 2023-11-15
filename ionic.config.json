@@ -1,0 +1,8 @@
+{
+  "name": "pastigo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "501d67a7"
+}
